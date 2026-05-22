@@ -5,3 +5,5 @@ prompt,response_1_score,response_2_score,response_3_score,best_response,weakest_
 Explain climate change in simple terms.,16,18,19,Response 3,Response 1
 Explain climate change in simple terms.,14,16,17,Response 3,Response 1
 Explain climate change in simple terms.,16,14,13,Response 1,Response 3
+Explain climate change in simple terms.,22,21,19,Response 1,Response 3
+Explain climate change in simple terms.,22,21,19,Response 1,Response 3

@@ -115,6 +115,6 @@ Recommended Improvements:
 - Define target audience if applicable.
 
 Example Improved Prompt:
-'Provide a detailed explanation about {user_prompt} for beginners using simple language, structured bullet points and practical examples.'
+'Provide a detailed explanation about '{user_prompt}' for beginners using simple language, structured bullet points and practical examples.'
 """
         return fallback_optimization

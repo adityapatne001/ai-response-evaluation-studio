@@ -52,6 +52,39 @@ Streamlit-based interface simulating practical AI operations workflows.
 
 ---
 
+# Application Screenshots
+
+## Main Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+## Response Evaluation Workflow
+
+![Evaluation](screenshots/evaluation1.png)
+![Evaluation](screenshots/evaluation2.png)
+![Evaluation](screenshots/evaluation3.png)
+---
+
+## AI Feedback Generation
+
+![Feedback](screenshots/feedback.png)
+
+---
+
+## Prompt Optimization Engine
+
+![Prompt Optimization](screenshots/prompt_optimization.png)
+
+---
+
+## Report Export System
+
+![Report Export](screenshots/report_export.png)
+
+---
+
 # Evaluation Metrics Used
 
 The project evaluates responses using metrics such as:
